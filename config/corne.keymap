@@ -12,11 +12,6 @@
 
 &led_strip { chain-length = <27>; };
 
-/ {
-
-        // zmk,matrix_transform = &extra_keys_transform;
-    };
-};
 
 / {
     keymap {
